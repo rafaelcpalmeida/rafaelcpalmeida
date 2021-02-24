@@ -2,10 +2,10 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/igorasilveira/igorasilveira">
+<a href="https://github.com/rafaelcpalmeida/rafaelcpalmeida">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcpalmeida&hide=java,html,css&title_color=ffffff&langs_count=8&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/igorasilveira/igorasilveira">
+<a href="https://github.com/rafaelcpalmeida/rafaelcpalmeida">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelcpalmeida&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Igor's GitHub Stats" />
 </a>
 
